@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <title>Please wait</title>
+  </head>
+  
+  <body>
+    <script type="text/javascript">
+      window.location.href = "https://google.com";
+    </script>
+  </body>
+</html>
